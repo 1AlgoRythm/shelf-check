@@ -1,0 +1,22 @@
+T02 r0 PASS
+T05 r0 PASS
+T01 r0 PASS
+T03 r0 FAIL meets_requirements(NE-RJ-101 has no M in stock)
+T04 r0 FAIL meets_requirements(NE-RJ-102 is water-resistant; NE-RJ-105 costs $149)
+T07 r0 PASS
+T09 r0 PASS
+T06 r0 FAIL no_other_brands(Torrentshell)
+T08 r0 PASS
+T13 r0 PASS
+T12 r0 FAIL prices_accurate($2)
+T10 r0 FAIL meets_requirements(NE-SH-502 has no 10 in stock)
+T14 r0 PASS
+T15 r0 PASS
+T11 r0 FAIL meets_requirements(NE-RJ-104 is rain-jacket; NE-IJ-201 is water-resistant)
+T18 r0 PASS
+T16 r0 FAIL meets_requirements(NE-RJ-102 is water-resistant)
+T19 r0 FAIL meets_requirements(NE-FL-302 costs $79)
+T17 r0 PASS
+T20 r0 PASS
+
+sonnet-r1: 12/20 tasks fully pass, 0 errors, cost $0.447
